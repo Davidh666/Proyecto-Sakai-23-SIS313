@@ -67,12 +67,6 @@ Gestión de servicios con systemd
 Configuración centralizada mediante archivos properties
 Despliegue automático de aplicaciones WAR
 
-✅ Balanceo de Carga/Proxy (T3/T4):
-
-Nginx como proxy inverso con upstream backend
-Configuración de health checks y timeouts personalizados
-Rate limiting y control de tamaño de uploads (100MB)
-Headers de proxy para preservar información del cliente
 
 ✅ Networking Avanzado (T3):
 
